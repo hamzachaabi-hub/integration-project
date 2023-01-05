@@ -1,0 +1,32 @@
+[{
+  "_id": 1,
+  "picture": "http://placehold.it/32x32",
+  "event_name": "code it up",
+  "description": "lorem Ipsum"
+},{
+  "_id": 2,
+  "picture": "http://placehold.it/32x32",
+  "event_name": "gdg randotek",
+  "description": "lorem Ipsum"
+},{
+  "_id": 3,
+  "picture": "http://placehold.it/32x32",
+  "event_name": "wie star program",
+  "description": "lorem Ipsum"
+},{
+  "_id": 4,
+  "picture": "http://placehold.it/32x32",
+  "event_name": "drift trike",
+  "description": "lorem Ipsum"
+},{
+  "_id": 5,
+  "picture": "http://placehold.it/32x32",
+  "event_name": "forex",
+  "description": "lorem Ipsum"
+},{
+  "_id": 6,
+  "picture": "http",
+  "event_name": "jelbana",
+  "description": "lorem impsum",
+  "_class": "com.example.demo.model.Event"
+}]
